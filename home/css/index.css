@@ -1829,7 +1829,7 @@ h1 {
 #navgation .nav-wrapper .logo {
 	display: block;
 	width: 185px;
-	height: 50px;
+	height: 200px;
 	background: url(../img/logo.png) no-repeat;
 	background-size: cover;
 	position: absolute;
